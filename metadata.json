@@ -1,0 +1,6 @@
+{
+  "name": "TV LAUNCHER — Liquid Glass Android TV Home",
+  "description": "Production-grade macOS Liquid Glass Android TV & Google TV Launcher by Shanawaz, complete with native Kotlin Jetpack Compose for TV project, D-pad remote simulator, and APK build package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
